@@ -1,2 +1,2 @@
 # ReverseText
-![Screenshot](reverse.png)
+![Screenshot](reverse.PNG)
