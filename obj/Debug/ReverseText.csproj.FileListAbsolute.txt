@@ -1,0 +1,13 @@
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Debug\ReverseText.exe
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Debug\ReverseText.pdb
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Debug\MetroFramework.Design.dll
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Debug\MetroFramework.dll
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Debug\MetroFramework.Fonts.dll
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.csprojResolveAssemblyReference.cache
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.Form1.resources
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.Properties.Resources.resources
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.csproj.GenerateResource.Cache
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.csproj.CoreCompileInputs.cache
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.exe
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.pdb
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Debug\ReverseText.About.resources

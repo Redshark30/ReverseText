@@ -1,0 +1,13 @@
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Release\ReverseText.exe
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Release\ReverseText.pdb
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Release\MetroFramework.Design.dll
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Release\MetroFramework.dll
+c:\users\manu\source\repos\ReverseText\ReverseText\bin\Release\MetroFramework.Fonts.dll
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.About.resources
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.Form1.resources
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.Properties.Resources.resources
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.csproj.GenerateResource.Cache
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.csproj.CoreCompileInputs.cache
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.exe
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.pdb
+c:\users\manu\source\repos\ReverseText\ReverseText\obj\Release\ReverseText.csprojResolveAssemblyReference.cache
